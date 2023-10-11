@@ -1,0 +1,40 @@
+{
+    "server-page": {
+        "notifications":{
+            "title_txt":"Notifications"
+        },
+        "product_item":{
+            "title_txt":"Product Item"
+        },
+        "home":{
+            "title_txt":"Home"
+        },
+        "products":{
+            "title_txt":"Products"
+        },
+
+        "profile":{
+            "title_txt":"Your Profile"
+        },
+        "settings":{
+            "title_txt":"Setting"
+        },
+        "sign_in": {
+            "title_txt": "Sign in to your {your Product} account",
+            "back_link_txt": "Back",
+            "email_field_txt": "Email",
+            "password_field_txt": "Password",
+            "submit_button_txt": "Sign In",
+            "forgot_link_text": "Forgot Password?"
+        }
+    },
+    "server-component": {
+        "layout-menu": {
+            "dashboard": "Dashboard",
+            "products": "Products",
+            "profile": "Your Profile",
+            "settings": "Settings",
+            "sign_out": "Sign Out"
+        }
+    }
+}

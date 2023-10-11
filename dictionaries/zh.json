@@ -1,0 +1,40 @@
+{
+    "server-page": {
+        "notifications":{
+            "title_txt":"通知消息"
+        },
+        "product_item":{
+            "title_txt":"商品详情"
+        },
+        "home":{
+            "title_txt":"首页"
+        },
+        "products": {
+            "title_txt":"商品中心"
+        },
+
+        "profile":{
+            "title_txt":"个人设置"
+        },
+        "settings":{
+            "title_txt":"设置"
+        },
+        "sign_in": {
+            "title_txt": "欢迎登录{名称}后台系统",
+            "back_link_txt": "返回",
+            "email_field_txt": "邮箱",
+            "password_field_txt": "密码",
+            "submit_button_txt": "登录",
+            "forgot_link_text": "找回密码?"
+        }
+    },
+    "server-component": {
+        "layout-menu": {
+            "dashboard": "控制台",
+            "products":"商品",
+            "profile": "个人信息",
+            "settings": "设置",
+            "sign_out": "退出"
+        }
+    }
+}
